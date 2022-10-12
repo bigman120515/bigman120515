@@ -197,15 +197,5 @@
 
 ![Bigman120515's github activity graph](https://activity-graph.herokuapp.com/graph?username=bigman120515&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
-![snake gif](https://raw.githubusercontent.com/bigman120515/bigman120515/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/bigman120515/bigman120515/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bigman120515&hide_border=true&theme=solarized-dark&hide_title=true&range=last_7_days" alt="Activities This Week" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -->
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⭐+Highlights&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigman120515&repo=casper-client-rs&theme=swift)](https://github.com/bigman120515/casper-client-rs) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigman120515&repo=cargo-casper&theme=swift)](https://github.com/bigman120515/https://github.com/casper-ecosystem/cargo-casper) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigman120515&repo=casper-js-sdk&theme=buefy)](https://github.com/casper-ecosystem/casper-js-sdk) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigman120515&repo=casper-contracts-js-clients&theme=buefy)](https://github.com/casper-network/casper-contracts-js-clients) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
